@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Vedat Önal
+# Hi there 👋, my name is Vedat Önal
 #### In Turkey, a computer engineering student, I work in the cyber security field.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
