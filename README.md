@@ -10,14 +10,18 @@
 - 💬 Ask me about **Python, Java, XSS and SQL injection**
 
 - 📫 How to reach me **vedatonal38@gmail.com**
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/vedatonal38" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vedatonal38" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vedat-%c3%b6nal-04004319b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vedat-%c3%b6nal-04004319b/" height="30" width="40" /></a>
-<a href="https://fb.com/vedatonal38" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="vedatonal38" height="30" width="40" /></a>
-<a href="https://instagram.com/vedatonal38" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vedatonal38" height="30" width="40" /></a>
-<a href="https://discord.gg/vedatonal38#9510" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="vedatonal38#9510" height="30" width="40" /></a>
+<img usemap="#infographic" src="https://github.com/vedatonal38/vedatonal38/blob/main/vedat%C3%B6nal-info.png" alt="Vedat Önal infographic"/>
+<map name="infographic">
+<area shape="circle" coords="180,190,90" href="https://vedatonal38.com" target="_blank" alt="Vedat Önal sitesi"/>
+<area shape="poly" coords="7,131,179,7,179,54,53,146" href="https://www.facebook.com/vedatonal38" target="_blank" alt="Vedat Önal nın Facebook hesabı"/>
+<area shape="poly" coords="179,7,179,54,308,146,352,132" href="https://twitter.com/vedatonal38" target="_blank" alt="Vedat Önal nın Twitter hesabı"/>
+<area shape="poly" coords="7,131,53,146,100,297,74,334" href="https://github.com/vedatonal38" target="_blank" alt="Vedat Önal nın GitHub hesabı"/>
+<area shape="poly" coords="307,147,352,131,287,335,261,298" href="https://www.linkedin.com/in/vedat-%C3%B6nal-04004319b/" target="_blank" alt="Vedat Önal nın Linkedin hesabı"/>
+<area shape="poly" coords="100,297,74,334,287,335,261,298" href="http://t.me/vedatonal38" target="_blank" alt="Vedat Önal nın Telegram hesabı"/>
+</map> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
