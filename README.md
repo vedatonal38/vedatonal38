@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Security**
 
-- 🌱 I’m currently learning **HTML, CSS, Sql injection and XSS**
+- 🌱 I’m currently learning **GO for hacker, Cyber threat intelligence systems**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vedatonal38?tab=repositories](https://github.com/vedatonal38?tab=repositories)
 
