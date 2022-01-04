@@ -27,7 +27,3 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedatonal38&show_icons=true&locale=en&layout=compact" alt="vedatonal38" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedatonal38&show_icons=true&locale=en" alt="vedatonal38" /></p>
-
-<p align="center">&nbsp;
-<script src="https://tryhackme.com/badge/696610"></script>
-</p>
