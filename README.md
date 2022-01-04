@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vedatonal38?tab=repositories](https://github.com/vedatonal38?tab=repositories)
 
-- 💬 Ask me about **Python, Java, XSS and SQL injection**
-
 - 📫 How to reach me **vedatonal38@gmail.com**
 - 
 <h3 align="left">Connect with me:</h3>
