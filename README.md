@@ -3,12 +3,6 @@
 
 - 🔭 I’m currently working on **Security**
 
-- 🌱 I’m currently learning **GO for hacker, Cyber threat intelligence systems**
-
-- 👨‍💻 All of my projects are available at [https://github.com/vedatonal38?tab=repositories](https://github.com/vedatonal38?tab=repositories)
-
-- 📫 How to reach me **vedatonal38@gmail.com**
-- 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/vedatonal38" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vedatonal38" height="30" width="40" /></a>
